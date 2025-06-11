@@ -9,3 +9,6 @@ comand
 3- Git branch 'branch name'
 
 4- Git checkout 'branch name'
+5- git add 'file name'
+6- git commit --m 'my commet'
+7- git push --set-upstream origin 'branch name'
